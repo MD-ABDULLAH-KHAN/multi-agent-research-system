@@ -139,7 +139,6 @@ TAVILY_API_KEY=your_tavily_api_key
 
 Create an account and generate an API key:
 
-https://console.mistral.ai/
 
 ---
 
@@ -147,7 +146,6 @@ https://console.mistral.ai/
 
 Generate a free API key:
 
-https://app.tavily.com/
 
 ---
 
@@ -227,52 +225,6 @@ The application requires:
 |----------|-------------|
 | MISTRAL_API_KEY | Mistral AI API Key |
 | TAVILY_API_KEY | Tavily Search API Key |
-
----
-
-# 📸 Screenshots
-
-You can add screenshots of the Streamlit interface here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    report.png
-```
-
-Then include them like:
-
-```markdown
-![Home](screenshots/home.png)
-```
-
----
-
-# 🤝 Contributing
-
-1. Fork the repository
-
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push the branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
 
 ---
 
