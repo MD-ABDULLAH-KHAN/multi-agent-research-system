@@ -228,6 +228,35 @@ The application requires:
 
 ---
 
+# For SomeOne to Run this Project :
+
+
+# Clone the repository
+git clone https://github.com/MD-ABDULLAH-KHAN/multi-agent-research-system.git
+
+# Go to the project directory
+cd multi-agent-research-system
+
+# Create a virtual environment
+python -m venv .venv
+
+# Activate it (Windows)
+.\.venv\Scripts\Activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Create a .env file using .env.example
+# Add your Mistral and Tavily API keys
+
+# Run the Streamlit application
+streamlit run app.py
+
+
+
+
+
+
 # 📄 License
 
 This project is intended for educational and research purposes.
